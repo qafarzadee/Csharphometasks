@@ -1,0 +1,15 @@
+/Users/elgungafarzade/Desktop/hometask/hometask/bin/Debug/net6.0/hometask
+/Users/elgungafarzade/Desktop/hometask/hometask/bin/Debug/net6.0/hometask.deps.json
+/Users/elgungafarzade/Desktop/hometask/hometask/bin/Debug/net6.0/hometask.runtimeconfig.json
+/Users/elgungafarzade/Desktop/hometask/hometask/bin/Debug/net6.0/hometask.dll
+/Users/elgungafarzade/Desktop/hometask/hometask/bin/Debug/net6.0/hometask.pdb
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.csproj.AssemblyReference.cache
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.AssemblyInfoInputs.cache
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.AssemblyInfo.cs
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.csproj.CoreCompileInputs.cache
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.dll
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/refint/hometask.dll
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.pdb
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/hometask.genruntimeconfig.cache
+/Users/elgungafarzade/Desktop/hometask/hometask/obj/Debug/net6.0/ref/hometask.dll
